@@ -10,4 +10,5 @@ Each day can grant you 2 stars if both puzzles are solved.
 | Day | Part 1 | Part 2 |
 |---|:----:|:---:|
 |✔️ Day 1: Not Quite Lisp | ⭐️ | ⭐️ |
+|✔️ Day 2: I Was Told There Would Be No Math | ⭐️ | ⭐️ |
 
