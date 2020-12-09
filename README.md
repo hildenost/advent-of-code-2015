@@ -12,4 +12,5 @@ Each day can grant you 2 stars if both puzzles are solved.
 |✔️ [Day 1: Not Quite Lisp](01) | ⭐️ | ⭐️ |
 |✔️ [Day 2: I Was Told There Would Be No Math](02) | ⭐️ | ⭐️ |
 |✔️ [Day 3: Perfectly Spherical Houses in a Vacuum](03) | ⭐️ | ⭐️ |
+|✔️ [Day 4: The Ideal Stocking Stuffer](04) | ⭐️ | ⭐️ |
 
