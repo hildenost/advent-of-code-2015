@@ -14,4 +14,6 @@ Each day can grant you 2 stars if both puzzles are solved.
 |✔️ [Day 3: Perfectly Spherical Houses in a Vacuum](03) | ⭐️ | ⭐️ |
 |✔️ [Day 4: The Ideal Stocking Stuffer](04) | ⭐️ | ⭐️ |
 |✔️ [Day 5: Doesn't He Have Intern-Elves For This?](05) | ⭐️ | ⭐️ |
+|✔️ Day 6: Probabily a Fire Hazard | ⭐️ | ⭐️ |
+|✔️ [Day 7: Some Assembly Required](07) | ⭐️ | ⭐️ |
 
