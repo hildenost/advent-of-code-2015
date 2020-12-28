@@ -16,4 +16,5 @@ Each day can grant you 2 stars if both puzzles are solved.
 |✔️ [Day 5: Doesn't He Have Intern-Elves For This?](05) | ⭐️ | ⭐️ |
 |✔️ Day 6: Probabily a Fire Hazard | ⭐️ | ⭐️ |
 |✔️ [Day 7: Some Assembly Required](07) | ⭐️ | ⭐️ |
+|✔️ [Day 8: Matchsticks](08) | ⭐️ | ⭐️ |
 
